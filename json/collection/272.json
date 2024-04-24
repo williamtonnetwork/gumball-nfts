@@ -1,0 +1,19 @@
+{
+  "name": "Skater Gumball #273",
+  "description": "Gumball is a cute, mischievous, and humorous cat who embarks on exciting adventures with his sister Darwin in the town of Elmore. Every NFT has unique qualities, including equipment, rarity, and...",
+  "image": "https://github.com/williamtonnetwork/gumball-nfts/blob/main/images/skater-gum.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Helmet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dutch White"
+    }
+  ]
+}

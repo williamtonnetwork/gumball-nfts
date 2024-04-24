@@ -1,0 +1,19 @@
+{
+  "name": "420 Gumball #122",
+  "description": "Gumball is a cute, mischievous, and humorous cat who embarks on exciting adventures with his sister Darwin in the town of Elmore. Every NFT has unique qualities, including equipment, rarity, and...",
+  "image": "https://github.com/williamtonnetwork/gumball-nfts/blob/main/images/420-gum.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pale Pink"
+    }
+  ]
+}
